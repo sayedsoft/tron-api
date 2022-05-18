@@ -16,7 +16,8 @@ A PHP API for interacting with the Tron Protocol
 
 The following versions of PHP are supported by this version.
 
-* PHP 7.4
+* PHP 7.4 or higher 
+* it from sayedsoft
 
 ## Example Usage
 
