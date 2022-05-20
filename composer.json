@@ -4,6 +4,7 @@
     "license": "MIT",
     "type":   "library",
     "homepage": "https://github.com/iexbase/tron-api",
+    "version":"4.0.1"
     "authors": [
         {
             "name": "Shamsudin Serderov",
